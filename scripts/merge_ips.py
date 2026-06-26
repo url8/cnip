@@ -10,6 +10,7 @@ V4_SOURCES = [
     "https://raw.githubusercontent.com/kiddin9/china_ip_list/refs/heads/main/china_ip_list.txt",
     "https://raw.githubusercontent.com/wendellouyang/geolite2_china_ip_list/refs/heads/main/chnip.txt",
     "https://raw.githubusercontent.com/1715173329/IPCIDR-CHINA/refs/heads/master/ipv4.txt",
+    "https://cira.moedove.com/geo/country/ipv4/CN.txt",
 ]
 
 V6_SOURCES = [
@@ -18,6 +19,7 @@ V6_SOURCES = [
     "https://raw.githubusercontent.com/missuo/ASN-China/refs/heads/main/IPv6.China.list",
     "https://raw.githubusercontent.com/ChanthMiao/China-IPv6-List/release/cn6.txt",
     "https://raw.githubusercontent.com/1715173329/IPCIDR-CHINA/refs/heads/master/ipv6.txt",
+    "https://cira.moedove.com/geo/country/ipv6/CN.txt",
 ]
 
 
